@@ -6,7 +6,7 @@ This project helps users organize their daily tasks, keep track of what they nee
 
 ## Preview
 
-
+https://bengu-elmas.github.io/To-Do-List/
 
 ## Features
 
@@ -40,5 +40,5 @@ to-do-list/
 │
 ├── index.html
 ├── styles.css
-├── index.js
+├── script.js
 └── README.md

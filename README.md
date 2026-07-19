@@ -30,7 +30,7 @@ https://bengu-elmas.github.io/To-Do-List/
 1. Enter a task into the text box.
 2. Click the **Add** button.
 3. The new task will appear in the list.
-4. Click a task to mark it as completed.
+4. Click the **✔** button to mark it as completed.
 5. Click the **×** button to remove it from the list.
 
 ## Project Structure
